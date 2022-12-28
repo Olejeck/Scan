@@ -12,7 +12,7 @@ public class Scan {
             if (sc.endsWith("exit")) {
                 break;
             }
-            System.out.println("хочу ещё!!!");
+            System.out.println("Eщё!!!");
         }
         System.out.println(arrayList);
     }
